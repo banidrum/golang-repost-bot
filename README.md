@@ -25,4 +25,6 @@ twitterWebhook if responsible for sending the request to the twitter API endpoin
 
 ## How to run it?
 
-WIP.
+You must install Go, I developed this bot using the 1.14 version.
+
+After installing go, just go to the cmd directory and run the bot with go run bot.go.
