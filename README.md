@@ -1,5 +1,5 @@
 # golang-repost-bot
-This repository will store the code for a Twitter bot written in Golang.
+This repository stores the code for a Twitter bot written in Golang.
 
 This is my very first Go project. I intend to use it to learn about HTTP server and how to work with JSON in Go.
 
