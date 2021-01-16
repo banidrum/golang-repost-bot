@@ -28,3 +28,7 @@ twitterWebhook if responsible for sending the request to the twitter API endpoin
 You must install Go, I developed this bot using the 1.14 version.
 
 After installing go, just go to the cmd directory and run the bot with go run bot.go.
+
+You will need Twitter API Keys to post the content on Twitter.
+
+A Reddit User-Agent is also needed to make the requests to subreddits.
